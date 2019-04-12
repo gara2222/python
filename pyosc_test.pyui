@@ -1,0 +1,51 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 16}, {257, 34}}",
+        "class" : "Slider",
+        "attributes" : {
+          "flex" : "W",
+          "continuous" : false,
+          "frame" : "{{20, 103}, {200, 34}}",
+          "uuid" : "5ACAD2E2-3663-4476-A1F7-A2A7CDF7D1A5",
+          "class" : "Slider",
+          "value" : 0.5,
+          "name" : "slider1"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 58}, {153, 105}}",
+        "class" : "Button",
+        "attributes" : {
+          "border_width" : 5,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "Play \/ Stop",
+          "uuid" : "790EBA7A-6DD1-4018-8FB9-28F7FE9AEB37",
+          "class" : "Button",
+          "corner_radius" : 0,
+          "name" : "playstop",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
